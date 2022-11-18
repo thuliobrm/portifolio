@@ -1,0 +1,73 @@
+body{
+    font-family:"Marhey";
+}
+
+.head{
+    display:flex;
+    font-size:15px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 120px;
+    margin-left: 50px;
+}
+
+a {
+    text-decoration: none; 
+}
+
+a:visited {
+    color: #000 ;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    margin-right: 20px;
+    
+}
+
+nav a, nav a:visited {
+    margin: 0 30px;
+    color: #76B5C5;
+    font-size:1em ;
+}
+
+.trybecolor, .trybecolor:visited {
+    color: green;
+}
+
+.portifoli-o span {
+    color: #76B5C5;
+}
+
+.sobre-mim span{
+    font-size: 35px;
+    color: #76B5C5;
+}
+
+.sobre-mim {
+    font-size: 35px;
+    margin-left: 50px;
+    height: 30px;
+}
+
+.sobre-mim2{
+    text-align:justify;
+    font-size: 17px;
+    margin-left: 50px;
+}
+
+.texto-sobremim {
+    text-align:justify;
+    font-size: 16px;
+    color: grey;
+    margin-left: 50px;
+}
+
+.img {
+    align-items: center;
+    width: 400px;
+    height: 300px;  
+}

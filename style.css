@@ -64,10 +64,6 @@ a:hover {
     text-decoration: underline;
 }
 
-.trybecolor, .trybecolor:visited {
-    color: green;
-}
-
 .about-me div{
     background-color: #014F86;
     width: 150px;
